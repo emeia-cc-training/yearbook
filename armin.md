@@ -1,7 +1,7 @@
-# <Your Name Here>
+# Armin
 
-- GitHub: [@<accountname>](https://github.com/<accountname>)
-- Web: [Example](https://example.com)
-- Social: [Mastodon](https://mastondon.social/@<accountname>)
+- GitHub: [@scriptingosx](https://github.com/scriptingosx)
+- Web: [Scripting OS X](https://scriptingosx.com)
+- Social: [Mastodon](https://mastondon.social/@scriptingosx)
 
-<add a comment!>
+Thank you for participating!
