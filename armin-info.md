@@ -1,7 +1,8 @@
 # Armin
 
 - GitHub: [@scriptingosx](https://github.com/scriptingosx)
-- Web: [Example](https://example.com)
+- Web: [Scripting OS X](https://scriptingosx.com), [MacAdmins.news](https://macadmins.news)
 - Social: [Mastodon](https://mastondon.social/@accountname)
 
-add a comment!
+Thank you for participating!
+
