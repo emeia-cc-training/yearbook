@@ -1,6 +1,6 @@
 # Armin
 
-- GitHub: [@accountname](https://github.com/accountname)
+- GitHub: [@scriptingosx](https://github.com/scriptingosx)
 - Web: [Example](https://example.com)
 - Social: [Mastodon](https://mastondon.social/@accountname)
 
